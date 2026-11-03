@@ -1,0 +1,13 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+myenv/
+*.csv
+*.xlsx
+*.h5
+*.hdf5
+*.keras
+*.pt
+*.zip
+*.tar
+.env
